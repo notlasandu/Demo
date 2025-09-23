@@ -1,6 +1,6 @@
-# Svelte Demo Project
+# Svelte Experimental Demo Project
 
-A collection of Svelte demos and experimental components created while learning frontend development. This project serves as a playground for testing Svelte features, components, and frontend concepts.
+A collection of Svelte demos and experimental components created while learning frontend development wirh Svelte. This project serves as a playground for testing Svelte features, components, and frontend concepts.
 
 ## About
 
@@ -21,7 +21,7 @@ This repository contains various examples and demonstrations of:
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/notlasandu/Demo]
 cd Demo
 ```
 
@@ -55,19 +55,17 @@ npm run preview
 ```
 
 ## Project Structure
-[You can add your project structure here as it grows]
+Demo 
 
 ## Technologies Used
 - Svelte
 - SvelteKit
-- [Add other technologies as you use them]
+- Tailwind
 
 ## Learning Resources
 - [Svelte Documentation](https://svelte.dev/docs)
 - [SvelteKit Documentation](https://kit.svelte.dev/docs)
-
-## License
-[Your chosen license]
+- [Tailwind Documentation](https://tailwindcss.com/docs)
 
 ---
 *Note: This is a learning project. Feel free to explore the code and use it as reference for your own Svelte journey.*
