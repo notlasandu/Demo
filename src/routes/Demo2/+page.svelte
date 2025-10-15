@@ -57,8 +57,7 @@
 		// rect.left/top are current screen coords,
 		// but your x/y are relative offset, so adjust with rect
 		if (rect.left + dx < 0 || rect.right + dx > window.innerWidth) {
-			// would overflow → push opposite
-			newX = x - dx * 2; // 30 in opposite
+			newX = x - dx * 2;
 		}
 		if (rect.top + dy < 0 || rect.bottom + dy > window.innerHeight) {
 			newY = y - dy * 2;

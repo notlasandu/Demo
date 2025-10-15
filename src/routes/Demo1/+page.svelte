@@ -67,8 +67,8 @@
 
 		<div
 			class="absolute rounded-md bg-purple-500/50 {box
-				? ''
-				: 'opacity-0'} transition-all duration-300 ease-out"
+				? 'transition-all duration-300 ease-out'
+				: 'opacity-0'} "
 			style="
 				left:{endX}px;
 				top:{endY}px;
